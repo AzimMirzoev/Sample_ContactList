@@ -1,5 +1,5 @@
 import React from 'react';
-import notesServices from 'D:/Fullstack_journey/part2/src/services/notes.js'
+import notesServices from './src/services/notes.js'
 import './PersonForm.css';
 
 function PersonForm({nameU, numU, setNVal, setNumVal, list, setListOfNums}){
