@@ -1,0 +1,49 @@
+.number_list{
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    
+}
+
+
+.list_items{
+    border: 1px solid black;
+    margin: 5px auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+    background-color: beige;
+}
+
+.contact_img{
+    width: 30px;
+    height: 30px;
+    border-radius: 25px;
+    border: 1px solid black;
+    background-color: rgb(214, 107, 107);
+    margin: 5px 10px 0 0px;
+}
+
+.name{
+    font-size: 15px;
+    margin-right: 15px;
+    font-weight: bolder;
+}
+
+.number{
+    font-size: 16px;
+    margin-right: 10px;
+}
+.delete_button{
+    width: 60px;
+    height: 30px;
+    background-color: #821111;
+    color: white;
+    border: white;
+}
+.delete_button:hover{
+    background-color: black;
+    color:white;
+    font-size: 14px;
+}

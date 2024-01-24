@@ -1,0 +1,18 @@
+{
+  "persons": [
+    {
+      "id": "2",
+      "name": "Dan Abramov",
+      "number": "91-509-1918",
+      "dateOfCreation": "6/0/2024",
+      "img": ""
+    },
+    {
+      "id": "3",
+      "name": "Azimjon",
+      "number": "50-555-95-32",
+      "dateOfCreation": "6/0/2024",
+      "img": ""
+    }
+  ]
+}
